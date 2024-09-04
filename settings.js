@@ -11,26 +11,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉 Limule Solitarus"
+global.ownernomer = "25766486303"
+global.ownername = "👑͢𝐋𝐎𝐍𝐄❄️𝐊𝐘𝐎𝐓𝐀𝐊𝐀❄️𝐀𝐘𝐀𝐍𝐎𝐊𝐎𝐉𝐈👑"
 global.ytname = "YT: Deaethgun635"
 global.socialm = "GitHub: Limule3650"
 global.location = "India, Rampur, city"
 
-global.ownernumber = '237698581946'  //creator number
-global.ownername = '🐉 Limule Solitarus' //owner name
-global.botname = 'DEATH RAPHAEL-BUG' //name of the bot
+global.ownernumber = '25766486303'  //creator number
+global.ownername = '👑͢𝐋𝐎𝐍𝐄❄️𝐊𝐘𝐎𝐓𝐀𝐊𝐀❄️𝐀𝐘𝐀𝐍𝐎𝐊𝐎𝐉𝐈👑' //owner name
+global.botname = 'RAPHAEL-BUG' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
+global.packname = 'Sticker By•👑͢𝐋𝐎𝐍𝐄❄️𝐊𝐘𝐎𝐓𝐀𝐊𝐀❄️𝐀𝐘𝐀𝐍𝐎𝐊𝐎𝐉𝐈👑'
 global.author = 'Limule Solitarus\n\nContact: +237698581946'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Limule Solitarus Bot Inc."
+global.wm = "Limule tempest Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l'
+global.link = 'https://telegra.ph/file/4156632d30ccd234831c2.jpg'
 
 //custom prefix
 global.prefa = ['','!','.','#','&','•']
@@ -49,7 +49,7 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v2'
+global.typemenu = 'v1'
 
 //text bug
 global.xbugtex = {
